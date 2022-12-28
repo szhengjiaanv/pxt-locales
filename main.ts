@@ -7,4 +7,9 @@ namespace Lbit {
         let i = 0
     }
 
+    //% blockId="test2" block="test2"
+    //% weight=50
+    export function test2(): void {
+        let i = 0
+    }
 }
