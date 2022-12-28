@@ -3,8 +3,7 @@
     "version": "0.0.1",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
@@ -15,10 +14,6 @@
         "test.ts"
     ],
     "public": true,
-    "targetVersions": {
-        "target": "5.0.12",
-        "targetId": "microbit"
-    },
     "supportedTargets": [
         "microbit"
     ],
